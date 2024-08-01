@@ -74,29 +74,3 @@ button:active{
 }
 
 
-
-
-
-
-
-
-
-.clock{
-  min-width: 360px;
-  margin: 0 auto;
-  padding: 50px 0;
-  text-align: center;
-  border: 1px solid rgb(255, 255, 255);
-  border-radius: 10px;
-}
-
-.today{
-  margin-bottom: 10px;
-}
-
-.time{
-  margin-top: 10px;
-}
-.text{
-  color: red;
-}
